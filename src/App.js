@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react'
 
-import Header from './components/Header'
-import Footer from './components/Footer'
+import Header from './Components/Header'
+import Footer from './Components/Footer'
 import Tasks from './Components/Tasks'
-import AddTask from './components/AddTask'
+import AddTask from './Components/AddTask'
 
 
 const App = () => {
